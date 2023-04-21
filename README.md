@@ -1,4 +1,4 @@
-This is a new file with text!
+This is a file with text!
 
-Hopefully it works!
+It worked.
 
